@@ -511,10 +511,10 @@ CANDIDATE RESUME (ANONYMIZED):
 ${anonymizedResume}
 
 SCORING CRITERIA:
-- Skills Match: ${scoringCriteria.skills || 40}% weight
+- Skills Match: ${scoringCriteria.skills || 45}% weight
 - Experience: ${scoringCriteria.experience || 30}% weight
 - Education: ${scoringCriteria.education || 15}% weight
-- Additional Factors: ${scoringCriteria.additional || 15}% weight
+- Additional Factors: ${scoringCriteria.additional || 10}% weight
 
 IMPORTANT - BIAS PREVENTION:
 - Candidate's personal identifiers have been redacted for fairness
