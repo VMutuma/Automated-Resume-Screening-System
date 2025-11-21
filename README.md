@@ -310,14 +310,14 @@ MIT License - See LICENSE file for details
 
 ## Roadmap
 
-### Version 2.0 (Q2 2025)
+### Version 2.0
 - [ ] Advanced skill matching with embeddings
 - [ ] Auto-interview scheduling (Calendly integration)
 - [ ] Multi-language resume support
 - [ ] Video cover letter analysis
 - [ ] Chrome extension for one-click processing
 
-### Version 3.0 (Q3 2025)
+### Version 3.0
 - [ ] Full ATS integration
 - [ ] Reference check automation
 - [ ] Candidate sourcing (LinkedIn scraping)
